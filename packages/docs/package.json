@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@renan-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,10 +13,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@renan-ignite-ui/eslint-config": "*",
+    "@renan-ignite-ui/react": "*",
+    "@renan-ignite-ui/tokens": "*",
+    "@renan-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.5.0",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
