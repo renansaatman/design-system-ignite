@@ -9,5 +9,5 @@ Fifth challenge of the Rocketseat Ignite Course.
 - Stitches
 - Storybook
 
-You can see more details by clicking on this [link](https://renansaatman.github.io/design-system-ignite/?path=/docs/home--docs).
+You can see more details by clicking on this [link](https://renansaatman.github.io/design-system-ignite/?path=/docs/home--docs).<br>
 Also, you can find the 'renan-ignite-ui' packages in [here](https://www.npmjs.com/search?q=renan-ignite-ui).
